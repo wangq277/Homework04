@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "66A1C31897A2008FE23C4E92118B4CA4E8C3B938",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BB8273AB8C45DF4E640668DAA2A405748FDD220A" : 9223372036854775807,
+    "66A1C31897A2008FE23C4E92118B4CA4E8C3B938" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4B8BED1B-3C76-49FF-B4F0-05ED2695E2B6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BB8273AB8C45DF4E640668DAA2A405748FDD220A" : "..\/..\/..\/..",
+    "66A1C31897A2008FE23C4E92118B4CA4E8C3B938" : "rectangleZeno\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "rectangleZeno",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "rectangleZeno.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangq277\/ofFbo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66A1C31897A2008FE23C4E92118B4CA4E8C3B938"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangq277\/Qihui.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB8273AB8C45DF4E640668DAA2A405748FDD220A"
+    }
+  ]
+}
